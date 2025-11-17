@@ -1,2 +1,1 @@
-# Jidan
-Developer
+# active-dev
